@@ -1,16 +1,12 @@
 # Backend Engineering Homework  
   
-Thank you for spending time with us in the previous interviews.  The next step in the process is a homework assignment designed to help us understand how you handle actual coding problems.    
-We would like you to do this assignment, taking a maximum of 4 hours so we don’t eat up too much of your time.  Make sure to understand your solution as the next step in the process is deep diving on it.   
+Thank you for spending time with us in the previous interviews.  The next step in the process is a homework assignment designed to help us understand how you handle actual coding problems. We would like you to do this assignment, taking a maximum of 4 hours so we don’t eat up too much of your time.  Make sure to understand your solution as the next step in the process is deep diving on it.   
   
 ### Part 1: Get it working  
-Since this is a vanilla Django Rest Framework application we will not be providing instructions on how to get it up and running.  
-Additionally, there are issues with the application which you will need to find and fix before you can move onto part two.  The application needs  
-to be functional when turned in.  
+Since this is a vanilla Django Rest Framework application we will not be providing instructions on how to get it up and running. Additionally, there are issues with the application which you will need to find and fix before you can move onto part two.  The application needs to be functional when turned in.  
   
 ### Part 2: Adding users  
-Currently, our application doesn't allow users to be added through the API.  We want to allow this to happen but ONLY for users with the django Staff flag set to True.  
-Additionally, we need tests to make sure it works.  
+Currently, our application doesn't allow users to be added through the API.  We want to allow this to happen but ONLY for users with the django Staff flag set to True. Additionally, we need tests to make sure it works.  
   
 ### Part 3: Audit Log  
 We are interested in seeing what was done in the system.  To this end we would like you to add a new feature which will store all API actions and allow us to view them through another API endpoint.
