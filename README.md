@@ -19,7 +19,7 @@ Requirements for the model:
 * Tests should be included
 
 ### Bonus: Still have time?
-Our test file had no tests before you added yours.  If you don't use up all four hours then show us your testing chops on the rest of the application. 
+Our test file had no tests before you added yours.  If you don't use up all four hours then show us your testing chops on the rest of the application. The goal here is to add testing so that as we add more to the application, we know the functionality didn't break.
 
 
 ## Deliverables
