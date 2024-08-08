@@ -37,7 +37,7 @@ If you finish the above and still have time within the given 4 hours here are so
 * A static token isn't the most secure way to interact with our api. Show us what you can do with other options like JWT or OAuth.
 
 ## Deliverables
-We would like you to create your own repo that has the finished homework assignment.  
+We would like you to create your own repo that has the finished homework assignment.  Please include documentation on anything we need to know to set it up and any notes you have for the team.
 
 ## Questions?
 We are happy to answer questions.  Just reach out to your recruiter to get in touch.
